@@ -1,0 +1,60 @@
+body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+/*carousel*/
+.menubutton:hover{
+	cursor: hand; 
+	cursor: pointer;
+	color: blue;
+}
+
+.clearbutton:hover{
+	cursor: hand; 
+	cursor: pointer;
+	color: red;
+}
+
+canvas {
+  border: 1px solid #9C9898;
+}
+
+#container{
+	margin-left:10px;
+}
+
+.container{
+    border: 1px solid black;
+    width: 800px;
+    height: auto;
+    position: relative;
+    display: inline-block;
+}
+
+.left{
+    float:left;
+    width: 25%;
+}
+
+.right{
+     float: right;
+    width: 75%;
+}
+
+#slider{
+	margin:10px;
+}
+
+.left, .right{
+     margin-top: 25px;
+    margin-bottom: 25px;
+}
+img {
+     display: block;   
+}
+
+ul { list-style-type: none; margin: 0; padding: 0; margin-bottom: 10px; }
+li { margin: 5px; padding: 5px; width: 150px; }
+}
+
